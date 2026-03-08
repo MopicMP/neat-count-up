@@ -1,0 +1,25 @@
+{
+  "name": "neat-count-up",
+  "version": "1.0.0",
+  "description": "Neat number counting animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "count",
+    "js",
+    "neat",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/neat-count-up.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
